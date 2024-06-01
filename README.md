@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sasho Vasilchev</h1>
 <h3 align="center">I am interested in algorithms and machine learning</h3>
 
-- 🔭 I like to do solve leetcode challenges [LeetCode account](https://leetcode.com/u/bezpoleznik/)
 
 - 🌱 I’m currently learning **Backend Technologies and ML**
 
 - 📝I currently study Software engineering in Sofia university
+  
+- 🔭 I like to solve leetcode challenges [LeetCode account](https://leetcode.com/u/bezpoleznik/)
   
 - ⚡ Fun fact **I'm into fitness**
 
